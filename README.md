@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm akshay vineeth</h1>
-<h3 align="center">"I am a ML enthusiast."</h3>
+<h3 align="center">"I am a AI enthusiast."</h3>
 
 - 🔭 I’m currently working on **Traffic Challan Detector**
 
